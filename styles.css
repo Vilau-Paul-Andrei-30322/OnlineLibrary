@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.floor-buttons {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.floor-buttons button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.floor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+.container {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+
+.door {
+    position: absolute;
+    width: 60px;
+    height: 100px;
+    background-color: rgb(90, 14, 14); /* Temporarily change to a bright color for debugging */
+    bottom: 30px; /* Position it near the bottom */
+    left: 120px;   /* Position it near the left */
+    border-radius: 5px; /* Adjusted radius for better visibility */
+    z-index: 10 !important; /* Ensure it is on top */
+}   
+.knob {
+    position: absolute;
+    width: 10px;
+    height: 5px;
+    background-color: rgb(0, 0, 0); /* Temporarily change to a bright color for debugging */
+    bottom: 70px; /* Position it near the bottom */
+    left: 130px;   /* Position it near the left */
+    border-radius: 5px; /* Adjusted radius for better visibility */
+    z-index: 11 !important; /* Ensure it is on top */
+}
+.roundtable {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #ddd;
+    border-radius: 50%;
+}
+
+.chair {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: #aaa;
+    cursor: pointer;
+}
+.roundtable:nth-child(1) {
+    top: 50%;
+    left: 50%;
+}
+
+.chair:nth-child(1) {
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.chair:nth-child(2) {
+    top: 50%;
+    left: 0;
+    transform: translate(-50%, -50%);
+}
+
+.chair:nth-child(3) {
+    top: 50%;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+
+.chair:nth-child(4) {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}

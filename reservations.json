@@ -1,0 +1,198 @@
+[
+    {
+        "reservation_id": 6329,
+        "user_id": 2,
+        "name": "Victoras",
+        "seat_id": 28,
+        "reservation_time": "2024-05-24",
+        "end_reservation_time": "2024-05-24 22:26:30"
+    },
+    {
+        "reservation_id": 1774,
+        "user_id": 2,
+        "name": "Victoras",
+        "seat_id": 26,
+        "reservation_time": "2024-05-24",
+        "end_reservation_time": "2024-05-24 22:26:51"
+    },
+    {
+        "reservation_id": 8761,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-24",
+        "end_reservation_time": "2024-05-24 22:32:22"
+    },
+    {
+        "reservation_id": 5736,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-24",
+        "end_reservation_time": "2024-05-24 22:37:16"
+    },
+    {
+        "reservation_id": 4393,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-24",
+        "end_reservation_time": "2024-05-24 22:40:49"
+    },
+    {
+        "reservation_id": 5025,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 25,
+        "reservation_time": "2024-05-26",
+        "end_seat_reservation_time": "2024-05-26 22:57:08"
+    },
+    {
+        "reservation_id": 8321,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26",
+        "end_seat_reservation_time": "2024-05-26 23:10:14"
+    },
+    {
+        "reservation_id": 7673,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26",
+        "end_seat_reservation_time": "2024-05-26 23:11:52"
+    },
+    {
+        "reservation_id": 3808,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26",
+        "end_seat_reservation_time": "2024-05-26 23:17:28"
+    },
+    {
+        "reservation_id": 3526,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 23,
+        "reservation_time": "2024-05-26 23:33:25",
+        "end_seat_reservation_time": "2024-05-26 23:40:51"
+    },
+    {
+        "reservation_id": 3768,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26 23:40:55",
+        "end_seat_reservation_time": "2024-05-26 23:41:15"
+    },
+    {
+        "reservation_id": 2956,
+        "user_id": 2,
+        "name": "Victoras",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26 23:50:16",
+        "end_seat_reservation_time": "2024-05-26 23:51:58"
+    },
+    {
+        "reservation_id": 7246,
+        "user_id": 2,
+        "name": "Victoras",
+        "seat_id": 21,
+        "reservation_time": "2024-05-26 23:53:14",
+        "end_seat_reservation_time": "2024-05-26 23:54:25"
+    },
+    {
+        "reservation_id": 4423,
+        "user_id": 3,
+        "seat_id": 21,
+        "reservation_time": {
+            "date": "2024-05-26 23:55:25.000000",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        },
+        "is_active": 1,
+        "end_reservation_time": "2024-05-26 23:56:22"
+    },
+    {
+        "reservation_id": 4926,
+        "user_id": 3,
+        "name": null,
+        "seat_id": 21,
+        "reservation_time": "2024-05-27 00:00:26",
+        "end_seat_reservation_time": "2024-05-27 00:00:33"
+    },
+    {
+        "reservation_id": 4965,
+        "user_id": 3,
+        "name": "Muri",
+        "seat_id": 21,
+        "reservation_time": "2024-05-27 00:03:34",
+        "end_seat_reservation_time": "2024-05-27 00:03:39"
+    },
+    {
+        "reservation_id": 2932,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 26,
+        "reservation_time": "2024-05-27 11:04:37",
+        "end_seat_reservation_time": "2024-05-27 11:33:00"
+    },
+    {
+        "reservation_id": 3355,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 29,
+        "reservation_time": "2024-05-27 11:35:49",
+        "end_seat_reservation_time": "2024-05-27 11:47:36"
+    },
+    {
+        "reservation_id": 1530,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 27,
+        "reservation_time": "2024-05-27 12:14:55",
+        "end_seat_reservation_time": "2024-05-27 12:15:01"
+    },
+    {
+        "reservation_id": 5002,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 27,
+        "reservation_time": "2024-05-27 12:15:13",
+        "end_seat_reservation_time": "2024-05-27 12:33:37"
+    },
+    {
+        "reservation_id": 4662,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 26,
+        "reservation_time": "2024-05-27 12:33:43",
+        "end_seat_reservation_time": "2024-05-27 12:53:50"
+    },
+    {
+        "reservation_id": 4862,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 27,
+        "reservation_time": "2024-05-27 12:53:56",
+        "end_seat_reservation_time": "2024-05-27 12:54:36"
+    },
+    {
+        "reservation_id": 6091,
+        "user_id": 3,
+        "name": "Muri",
+        "seat_id": 21,
+        "reservation_time": "2024-05-27 00:03:45",
+        "end_seat_reservation_time": "2024-05-27 13:47:40"
+    },
+    {
+        "reservation_id": 7321,
+        "user_id": 1,
+        "name": "Paul Vilau",
+        "seat_id": 21,
+        "reservation_time": "2024-05-27 14:33:15",
+        "end_seat_reservation_time": "2024-05-27 15:47:59"
+    }
+]

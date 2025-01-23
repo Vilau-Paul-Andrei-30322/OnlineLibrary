@@ -1,0 +1,2 @@
+CREATE VIEW AllBooksOrdered AS
+SELECT * FROM Books
